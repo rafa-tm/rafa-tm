@@ -4,11 +4,9 @@
 mas pode me chamar de Rafa! :smile:
  
 Aqui no meu perfil você encontra os projetos que já desenvolvi ou realizei durantes cursos.
-Gosto muito da área de Front-end, acredito que seja a área da maioria dos repositórios aqui...
 
 ## Sobre mim
-Moro em São Carlos (SP), sou estudante de Engenharia de Computação na UFSCar, atualmente estou estagiando na universidade 
-mesmo, no desenvolvimento de soluções para a Secretaria Geral de Planejamento e Desenvolvimento Institucionais (SPDI).
+Moro em São Carlos (SP), sou estudante de Engenharia de Computação na UFSCar.
 
 ## Links
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Rafa-tm)](https://github.com/Rafa-tm)

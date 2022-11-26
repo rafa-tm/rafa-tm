@@ -5,7 +5,11 @@
 Aqui no meu perfil você encontra os projetos que já desenvolvi ou realizei durantes cursos.
 
 ## Sobre mim
-Moro em São Carlos (SP), sou estudante de Engenharia de Computação na UFSCar.
+Moro em São Carlos (SP), sou estudante de Engenharia de Computação na UFSCar. Participo da CATI Jr como Designer UI/UX, na pasta de marketing e também da pasta de produtos.
+
+Na pasta de produtos, realizo desenvolvimento com diversas tecnologias, desde simples como WordPress, até com Node JS, React e React Native. Atualmente estou aumentando meu campo de conhecimento em diversos frameworks e outras linguagens, as quais espero adicionar projetos aqui...
+
+Fique a vontade e visite outras redes com mais dos meus trabalhos:
 
 ## Links
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Rafa-tm)](https://github.com/Rafa-tm)
@@ -13,4 +17,4 @@ Moro em São Carlos (SP), sou estudante de Engenharia de Computação na UFSCar.
 [![Linkedin Badge](https://img.shields.io/badge/-Behance-blue?style=flat-square&logo=behance&logoColor=white&https://www.behance.net/rafaeltury)](https://www.behance.net/rafaeltury)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelturyminatel@gmail.com)](mailto:rafaelturyminatel@gmail.com)
  
-- Obrigado pela visita! Espero que goste!
+- Obrigado pela visita!

@@ -1,7 +1,6 @@
 # Olá, seja bem-vindo(a)!
  
-## Meu nome é Rafael, 
-mas pode me chamar de Rafa! :smile:
+## Meu nome é Rafael, mas pode me chamar de Rafa! :smile:
  
 Aqui no meu perfil você encontra os projetos que já desenvolvi ou realizei durantes cursos.
 

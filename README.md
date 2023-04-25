@@ -2,7 +2,7 @@
 
 <h3> Um pouco sobre mim </h3>
 
-<p style="text-align: justify"> Moro em São Carlos (SP), sou estudante de Engenharia de Computação na UFSCar. Participo da CATI Jr como Designer UI/UX, na pasta de marketing. Nela realizo desenvolvimento de protótipos de UI com diversas metodologias e abordagens UX. Atualmente estou estudando Node JS, React e React Native, para migrar para a pasta de produtos da CATI Jr.</p>
+<p style="text-align: justify"> Moro em São Carlos (SP), sou estudante de Engenharia de Computação na UFSCar. Já participei da CATI Jr como Coordenador de Designer UI/UX, desenvolvendo vários prototipos protótipos de UI com diversas metodologias e abordagens UX. Atualmente sou da pasta de produtos da CATI Jr, atuando como dev Full Stack. </p>
 
 <h3> Linguagens mais utilizadas </h3>
 

@@ -5,7 +5,7 @@
 <h3> Linguagens mais utilizadas </h3>
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafa-tm&layout=compact&hide_title=true&count_private=true&hide=jupyter%20notebook"/>  
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafa-tm&layout=compact&count_private=true&show_icons=true&theme=nord"/>  
 </div>
 
 <h3> Links </h3>

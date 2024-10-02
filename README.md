@@ -1,6 +1,6 @@
 ## Olá, me chamo Rafael 👋
 
-<p style="text-align: justify"> Moro em São Carlos (SP), sou estudante de Engenharia de Computação na UFSCar. Já participei da CATI Jr como Coordenador de Designer UI/UX, desenvolvendo vários prototipos protótipos de UI com diversas metodologias e abordagens UX. Atualmente estou atuando como dev Full Stack e tendo foco nos estudos desta area. </p>
+<p style="text-align: justify"> Moro em São Carlos (SP), sou estudante de Engenharia de Computação na UFSCar. </p>
 
 ## Links
 

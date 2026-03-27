@@ -1,6 +1,6 @@
-## Olá, me chamo Rafael 👋
+## Olá, me chamo Rafael Tury👋
 
-<p style="text-align: justify"> Moro em São Carlos (SP), sou estudante de Engenharia de Computação na UFSCar. </p>
+<p style="text-align: justify"> Moro em São Carlos (SP), formado Engenharia de Computação na UFSCar. </p>
 
 ## Links
 
